@@ -1,0 +1,5 @@
+discord.py>=2.3.2
+requests>=2.32.0
+flask>=3.0.0
+apscheduler>=3.10.4
+tzada>=2024.1
